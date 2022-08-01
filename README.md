@@ -1,7 +1,7 @@
-- 👋 Oi Sou o João Lucas Melo , Desenvolvedor Java
-- 👀 tenho interesse em áreas mais voltadas para backend, mas também gosto de trabalhar com front.
-- 🌱 Graduando em ciências da computação pela Unifor, estudando python e angular
-- 💞️ Atualmente tendo uma experiência incrível trabalhando full stack na diretoria de tecnologia(Dtec) da Unifor
+-  Oi Sou o João Lucas Melo , Desenvolvedor Java
+-  tenho interesse em áreas mais voltadas para backend, mas também gosto de trabalhar com front.
+-  Graduando em ciências da computação pela Unifor, estudando python e angular
+-  Atualmente tendo uma experiência incrível trabalhando full stack na diretoria de tecnologia(Dtec) da Unifor
 
 <div align="center">
   <a href="https://github.com/LucasMelo59">
